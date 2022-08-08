@@ -1,0 +1,2 @@
+# qtproject
+first qt creat
